@@ -1,0 +1,14 @@
+p {
+    text-align: center;
+}
+.weight-warn{
+    color: rgb(255, 239, 118);
+}
+
+.weight-normal{
+    color: rgb(164, 255, 118);
+}
+
+.weight-danger {
+    color: rgb(255, 84, 84);
+}
